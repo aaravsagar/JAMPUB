@@ -169,19 +169,11 @@ Common issues:
    - Verify all intents are enabled
    - Ensure proper permissions in server
 
-2. Commands not working:
-   - Run `node deploy-commands.js` to update slash commands
-   - Check bot's role hierarchy
-   - Verify command permissions
-
-3. Auto-mod not triggering:
+2. Auto-mod not triggering:
    - Confirm AUTOMOD_ENABLED is true
    - Check exempt roles configuration
    - Verify bot's permissions
 
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
