@@ -47,7 +47,7 @@ A powerful, feature-rich Discord bot with moderation, auto-moderation, welcome/l
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/JAMPUB.git
+git clone https://github.com/aaravsagar/JAMPUB.git
 
 # Navigate to the directory
 cd JAMPUB
